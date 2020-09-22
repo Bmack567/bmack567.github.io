@@ -7,6 +7,9 @@ Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content 
 
 ### Built on Poole
 
+Welcome to First-Year Writing! In this course, we will examine the textual and visual languages in which we write, the ideas they describe, and how our thinking is shaped by the process of rigorous study. We will also explore the interaction between words and images to understand how our writing process is informed by our visual literacy. We will be writing or drawing in every class and we will work on our papers together. 
+
+
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
 
 * Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
