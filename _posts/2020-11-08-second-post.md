@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 2. Conceptualizing Image-Literate Computers
+title: 2. Imagining Image-Literate Computers
 ---
 
-While reading James Sturm's graphic novel *Market Day*, I noticed that my pre-owned copy included writing added by the previous reader. At first, my instinct was to erase these comments. I soon realized, however, that they weren’t written in English. This made me curious enough to look up one of the written phrases which appeared to spell "tinh ban" written above the book's word "camaraderie," which Google translates as the Vietnamese word for "friendship." This made me ponder a question surely asked by many digital scholars, of whether OCR can be trained to read handwritten annotations, or irregular handwriting generally.
+While reading James Sturm's graphic novel *Market Day*, I noticed that my pre-owned copy included writing added by the previous reader. At first, my instinct was to erase these comments. I soon realized, however, that they weren't written in English. This made me curious enough to look up one of the written phrases which appeared to spell "tinh ban" written above the book's word "camaraderie," which Google translates as the Vietnamese word for "friendship." This made me ponder a question surely asked by many digital scholars, of whether OCR can be trained to read handwritten annotations, or irregular handwriting generally.
 
 In one of our recent lectures, we discussed machine learning and artificial intelligence. When we design "stupid" computers to organize our data, they reveal new perspectives about the structures of text that are buried behind a distracting layer of meaning. By asking a computer to read hundreds of novels and then write its own, we can see similarities between texts that verify the conventional norms of the genre. Can the same ever be done for comics? If machine learning can allow computers to write novels, can they be taught to draw pictures?
 
