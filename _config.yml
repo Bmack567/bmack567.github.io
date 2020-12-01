@@ -2,7 +2,7 @@
 title:               Ben Machlin
 tagline:             'Digital Humanities Blog'
 description:         'Ben Machlin'
-url:                 bmack567.github.io
+url:                 https://bmack567.github.io
 baseurl:             
 paginate:            5
 permalink:           pretty
