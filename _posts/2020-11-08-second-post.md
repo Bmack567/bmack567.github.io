@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2. Imagining Image-Literate Computers
+title: Imagining Image-Literate Computers
 ---
 
 We recently discussed machine learning and artificial intelligence in our lectures. When we design "stupid" computers to organize our data, they reveal new perspectives about the structures of text that are buried behind a distracting layer of meaning. By asking a computer to read hundreds of novels and then write its own, we can see similarities between texts that verify the conventional norms of the genre. Can the same ever be done for comics? If machine learning can allow computers to write novels, can they be taught to draw pictures?

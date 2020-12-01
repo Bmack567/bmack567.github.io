@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3. Designing and Applying Image Recognition
+title: Designing and Applying Image Recognition
 ---
 
 This past week, we discussed the severely limited range of image recognition technology. Whereas text recognition relies on a handful of recognizable handwriting styles using repeated characters, handwriting recognition is much less reliable. How, then, could we expect a computer to recognize two different drawings intending to portray a house? 

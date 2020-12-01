@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1. Instagram Comics and Mysterious Algorithms
+title: Instagram Comics and Mysterious Algorithms
 ---
 
 The field of comics studies is often criticized for its canonization of primarily white (and frequently male) artists. Rutgers University Press's recent publication of *Comics Studies: A Guidebook* edited by Charles Hatfield and Bart Beaty was criticized for its dependence on almost exclusively white male contributors. The most widely cited cartoonists in university press publications continue to be white men like Art Spiegelman, Chris Ware, Charles Burns, Scott McCloud, as well as a few white women such as Alison Bechdel and Lynda Barry. Exceptions to this trend such as Ebony Flowers, Kyle Baker, and Marjane Satrapi are rare. If, however, we can transform the means of discovering comics, perhaps we can achieve a more democratic repertoire of comics available for study. 
